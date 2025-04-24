@@ -11,7 +11,7 @@ En este repositorio las profesoras vamos a subir ejemplos y ejercicios realizado
 ## Entendiendo la estructura del repo
 
 ```text
-/pw-promo-51-ejercicios-en-clase
+/pw-promo-54-ejercicios-en-clase
   / modulo-1
     ├ modulo-1-leccion-01-ejercicio-01-html-tags
     ├ modulo-1-leccion-01-ejercicio-02-gazpacho
