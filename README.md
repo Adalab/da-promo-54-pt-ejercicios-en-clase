@@ -1,4 +1,4 @@
-# Repositorio de ejercicios realizados en clase por las profes de la promoción 51
+# Repositorio de ejercicios realizados en clase por las profes de la promoción 54
 
 En este repositorio las profesoras vamos a subir ejemplos y ejercicios realizados en clase para que podáis practicar.
 
